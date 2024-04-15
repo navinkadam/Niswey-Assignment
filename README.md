@@ -4,7 +4,7 @@
 2. Install dependencies `npm install`
 3. Create an .env file in backend folder to register the following required environment variables:
   - `MONGO_URI` - MongoDB connection URL
-  - `PORT` - port of server
+  - `PORT` - port of server (eg. 3004)
 4. Make sure `nodemon` has installed.
 5. Run the server using `npm run start`
 
